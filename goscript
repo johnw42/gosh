@@ -1,0 +1,6 @@
+#! /usr/bin/env gosh
+// -*- mode: go -*-
+
+func main() {
+	println("hello world")
+}
